@@ -1,7 +1,7 @@
 # rakuraku-liblary  
 ## 機能  
 * 投稿した文書、画像をカテゴリ（フォルダ）整理することが可能になります。  
-* 「Advanced custom fields」を併用するプラグインです。
+* 「Advanced custom fields」を併用するプラグインです。。
   
 ## インストール方法  
 1.ダウンロードしてきた中から、「rakuraku-library」というフォルダを「wp-content」の「plugins」にアップロードする。  
